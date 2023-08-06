@@ -1,4 +1,7 @@
+import './assets/styles/bootstrap-reboot.min.css';
+import './assets/styles/bootstrap-grid.min.css';
 import './globals.css'
+
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 
